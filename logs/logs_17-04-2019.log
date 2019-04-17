@@ -1,0 +1,87 @@
+2019-04-17 12:14:04.013 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 17-04-2019 12:14:04 PM
+2019-04-17 12:14:05.290 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 12:14:05.292 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 12:14:09.086 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-04-17 12:14:13.971 [Thread-8] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 17-04-2019 12:14:04 PM. Used for 1555483453971 ms
+2019-04-17 12:46:04.868 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 17-04-2019 12:46:04 PM
+2019-04-17 12:46:06.211 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 12:46:06.215 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 12:46:43.599 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-04-17 12:46:52.300 [JavaFX Application Thread] INFO  library.assistant.exceptions.ExceptionUtil - INSERT INTO ISSUE(memberID,bookID) VALUES ('1001','1') and UPDATE BOOK SET isAvail = false WHERE id = '1'
+2019-04-17 12:51:23.500 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 17-04-2019 12:51:23 PM
+2019-04-17 12:51:24.543 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 12:51:24.545 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 12:51:29.289 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-04-17 12:51:42.247 [JavaFX Application Thread] INFO  library.assistant.exceptions.ExceptionUtil - INSERT INTO ISSUE(memberID,bookID) VALUES ('1001','1') and UPDATE BOOK SET isAvail = false WHERE id = '1'
+2019-04-17 12:51:50.699 [Thread-8] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 17-04-2019 12:51:23 PM. Used for 1555485710699 ms
+2019-04-17 13:47:33.998 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 17-04-2019 01:47:33 PM
+2019-04-17 13:47:35.023 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 13:47:35.026 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 13:47:45.288 [Thread-8] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 17-04-2019 01:47:33 PM. Used for 1555489065288 ms
+2019-04-17 13:54:56.816 [main] INFO  oops.ui.main.Main - Library Assistant launched on 17-04-2019 01:54:56 PM
+2019-04-17 13:54:57.860 [Thread-6] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 13:54:57.862 [Thread-6] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 13:55:04.533 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 13:55:04.535 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 13:55:04.782 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-04-17 13:56:52.707 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - INSERT INTO ISSUE(memberID,bookID) VALUES ('1001','1') and UPDATE BOOK SET isAvail = false WHERE id = '1'
+2019-04-17 13:56:57.676 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Exception at execQuery:dataHandlerDuplicate entry '1' for key 'PRIMARY'
+2019-04-17 13:57:12.972 [Thread-10] INFO  oops.ui.main.Main - Library Assistant is closing on 17-04-2019 01:54:56 PM. Used for 1555489632971 ms
+2019-04-17 13:57:50.475 [main] INFO  oops.ui.main.Main - Library Assistant launched on 17-04-2019 01:57:50 PM
+2019-04-17 13:57:51.521 [Thread-6] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 13:57:51.524 [Thread-6] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 13:58:00.814 [Thread-8] INFO  oops.ui.main.Main - Library Assistant is closing on 17-04-2019 01:57:50 PM. Used for 1555489680814 ms
+2019-04-17 13:58:25.136 [main] INFO  oops.ui.main.Main - Library Assistant launched on 17-04-2019 01:58:25 PM
+2019-04-17 13:58:26.140 [Thread-6] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 13:58:26.143 [Thread-6] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 13:58:31.095 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 13:58:31.098 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 13:58:31.340 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-04-17 13:58:37.008 [Thread-8] INFO  oops.ui.main.Main - Library Assistant is closing on 17-04-2019 01:58:25 PM. Used for 1555489717007 ms
+2019-04-17 14:02:17.443 [main] INFO  oops.ui.main.Main - App launched on 17-04-2019 02:02:17 PM
+2019-04-17 14:02:18.666 [Thread-6] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 14:02:18.669 [Thread-6] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 14:02:27.817 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 14:02:27.819 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 14:02:28.068 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-04-17 14:02:40.409 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - UPDATE ISSUE SET issueTime = CURRENT_TIMESTAMP, renew_count = renew_count+1 WHERE BOOKID = '1'
+2019-04-17 14:02:52.003 [Thread-8] INFO  oops.ui.main.Main - App is closing on 17-04-2019 02:02:17 PM. Used for 1555489972002 ms
+2019-04-17 14:03:29.050 [main] INFO  oops.ui.main.Main - App launched on 17-04-2019 02:03:29 PM
+2019-04-17 14:03:30.119 [Thread-6] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 14:03:30.122 [Thread-6] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 14:03:37.700 [Thread-8] INFO  oops.ui.main.Main - App is closing on 17-04-2019 02:03:29 PM. Used for 1555490017700 ms
+2019-04-17 14:07:05.752 [main] INFO  oops.ui.main.Main - App launched on 17-04-2019 02:07:05 PM
+2019-04-17 14:07:06.782 [Thread-5] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 14:07:06.786 [Thread-5] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 14:07:11.101 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 14:07:11.102 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 14:07:11.350 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-04-17 14:07:22.368 [Thread-8] INFO  oops.ui.main.Main - App is closing on 17-04-2019 02:07:05 PM. Used for 1555490242368 ms
+2019-04-17 14:07:56.734 [main] INFO  oops.ui.main.Main - App launched on 17-04-2019 02:07:56 PM
+2019-04-17 14:07:57.655 [Thread-5] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 14:07:57.659 [Thread-5] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 14:08:02.366 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 14:08:02.368 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 14:08:02.609 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-04-17 14:08:08.065 [Thread-8] INFO  oops.ui.main.Main - App is closing on 17-04-2019 02:07:56 PM. Used for 1555490288065 ms
+2019-04-17 14:10:00.269 [main] INFO  oops.ui.main.Main - App launched on 17-04-2019 02:10:00 PM
+2019-04-17 14:10:01.301 [Thread-5] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 14:10:01.305 [Thread-5] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 14:10:04.400 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 14:10:04.402 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 14:10:04.631 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-04-17 14:10:20.988 [Thread-8] INFO  oops.ui.main.Main - App is closing on 17-04-2019 02:10:00 PM. Used for 1555490420987 ms
+2019-04-17 14:12:02.689 [main] INFO  oops.ui.main.Main - App launched on 17-04-2019 02:12:02 PM
+2019-04-17 14:12:03.613 [Thread-5] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 14:12:03.616 [Thread-5] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 14:12:07.853 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 14:12:07.855 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 14:12:08.082 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-04-17 14:12:16.465 [Thread-8] INFO  oops.ui.main.Main - App is closing on 17-04-2019 02:12:02 PM. Used for 1555490536465 ms
+2019-04-17 14:15:43.353 [main] INFO  oops.ui.main.Main - App launched on 17-04-2019 02:15:43 PM
+2019-04-17 14:15:44.333 [Thread-5] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 14:15:44.335 [Thread-5] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 14:15:48.891 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-04-17 14:15:48.892 [JavaFX Application Thread] INFO  oops.exceptions.ExceptionUtil - Tables are already loaded
+2019-04-17 14:15:49.128 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-04-17 14:15:58.902 [Thread-8] INFO  oops.ui.main.Main - App is closing on 17-04-2019 02:15:43 PM. Used for 1555490758902 ms
